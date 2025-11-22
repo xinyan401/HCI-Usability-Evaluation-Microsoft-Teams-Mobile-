@@ -1,80 +1,88 @@
 # 📱 HCI Usability Evaluation – Microsoft Teams (Mobile)
 
-This project is a **comprehensive usability evaluation** of the Microsoft Teams mobile application, conducted as part of the HCI (BIC1233) course.  
-Our study involved **task-based testing**, **post-study questionnaires**, and **prototype redesign** to identify usability issues and propose improvements.
+This repository contains a usability evaluation of the Microsoft Teams mobile application, conducted for the Human-Computer Interaction (BIC1233) module.  
+The study included task-based testing, participant observation, subjective questionnaires, and prototype redesign based on user feedback.
 
 ---
 
 ## 👩‍💻 My Contribution
 
-According to the group assignment contribution table, I was responsible for:
+Based on the group division of work and my actual participation, my contributions were:
 
-### ✔ Section 1.0 – Overview of Usability & Usability Testing  
-Introduced key concepts of usability, components of usability testing, and how usability impacts mobile applications.
+### ✔ Section 1.0 – Overview of Usability & Usability Testing
+Wrote the introduction explaining usability concepts, usability components, and the purpose of usability testing in mobile applications.
 
-### ✔ Section 2.0 – Overview of Post-Study Questionnaires  
-Explained QUIS, SUS, PSSUQ, and CSUQ questionnaires and their roles in usability evaluation.
+### ✔ Section 2.0 – Overview of Post-Study Questionnaires
+Explained the theory behind QUIS, SUS, CSUQ and other post-study questionnaires, including how they measure user satisfaction.
 
-### ✔ Designed the Demographic Google Form  
-Created the participant demographic form used for data collection.
+### ✔ Designed & Managed the Demographic Google Form
+Created the Google Form to collect participant demographic data (age, gender, education, smartphone experience, familiarity with Teams).
 
-### ✔ Assisted in documentation formatting & compilation
+### ✔ Data Cleaning & Organization (Demographic Responses)
+Collected, cleaned, and organized the demographic data exported from Google Forms.
+(*Note: SEQ and QUIS score aggregation was handled by another team member.*)
+
+### ✔ Conducted Usability Testing & Assisted in Data Recording
+Participated in testing sessions by:
+- Observing participants completing tasks
+- Recording time-on-task
+- Recording task completion / failure
+- Noting user errors and assistance needed
+- Writing down user comments & behavior during tasks
+
+### ✔ Assisted in Report Compilation & Formatting
+Helped structure and format the final PDF to ensure consistency and clarity.
 
 ---
 
-## 🛠 Methods Used
+## 🧪 Methods Used
 
 ### **1. Task-Based Usability Testing**
-Five tasks were assigned to participants to evaluate discoverability, navigation clarity, and interaction flow.
+Participants were asked to complete 5 tasks (navigation, message search, onboarding, pinning, and joining with a code).
 
 ### **2. Objective Measures**
-- Task Completion  
-- Time on Task  
-- Error Rate  
-- Number of Assistance Requests  
-- User Comments  
+We evaluated:
+- Task completion rate  
+- Time on task  
+- Errors  
+- Assistance requests  
+- Observed user frustration/hesitation  
 
 ### **3. Subjective Measures**
-- SEQ (Single Ease Question)  
-- QUIS (Questionnaire for User Interaction Satisfaction)  
+(Organized by another team member)
+- QUIS  
+- SEQ  
 
 ### **4. Prototype Redesign**
-Created UI improvements based on findings.
+The team redesigned UI elements based on identified problems.
 
 ---
 
 ## 🔍 Key Findings
 
-### **1. Tasks 1 & 2 – Strong Performance**
-Participants achieved **100% completion** with minimal difficulty.
+### **Task Performance**
+- **Tasks 1 & 2**: 100% completion  
+- **Task 3**: 0% completion – “Pin message” feature too hidden  
+- **Tasks 4 & 5**: Moderate difficulty due to unclear navigation  
 
-### **2. Task 3 – 0% Completion**
-Users were **unable to find the “Pin Message”** option due to poor discoverability and inconsistent layout.
-
-### **3. Tasks 4 & 5 – Moderate Success**
-Some users struggled with:
-- locating “Join with Code”
-- interpreting unclear button labels
-- navigating between screens
-
-### **4. General Issues**
-- Hidden or inconsistent placement of icons  
+### **Identified Issues**
+- Hidden icons  
+- Overloaded navigation  
+- Confusing layout  
 - Lack of visual feedback  
-- Unclear or overloaded navigation  
-- Missing shortcuts  
 
 ---
 
 ## 🎨 Prototype Improvements
 
-Based on the findings, we redesigned key interfaces:
-
-### **✨ Added / Improved Features**
-- Added **Media Gallery** button for easier file access  
+### Key enhancements:
+- Added **Media Gallery** shortcut  
 - Added **Pin Message** feature  
-- Added **Recording Notification**  
-- Repositioned **Join-with-Code** to a more discoverable area  
-- Improved overall consistency and icon clarity  
+- Added **Recording Notification** panel  
+- Moved **Join-with-Code** to a more visible location  
+- Improved consistency & button clarity  
 
+---
 
+## 📂 Recommended Folder Structure
 
